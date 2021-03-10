@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b80a6f1-5372-41ab-93a4-266eb34bb122" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\LocalRepository" />
+        <option name="mavenHome" value="G:\IntelliJ IDEA\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="G:\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pNuuvHoFjgGehl5LCcGRB84r7h" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b80a6f1-5372-41ab-93a4-266eb34bb122" name="Default Changelist" comment="" />
+      <created>1615036096044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615036096044</updated>
+      <workItem from="1615036097543" duration="83000" />
+      <workItem from="1615036198907" duration="207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="13" key="#Project_Structure" timestamp="1615036168543">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="13" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1615036168543" />
+    <state x="592" y="252" key="FileChooserDialogImpl" timestamp="1615036382507">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="592" y="252" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1615036382507" />
+    <state x="403" y="159" key="new project wizard" timestamp="1615036403804">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="403" y="159" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1615036403804" />
+  </component>
+</project>
